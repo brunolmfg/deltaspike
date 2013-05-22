@@ -12,6 +12,6 @@ target
 atlassian-ide-plugin.xml
 .sonar-ide.properties
 *.patch
-deltaspike/core/impl/data
-deltaspike/modules/jsf/impl/data
-deltaspike/modules/security/impl/data
+/core/impl/data
+/modules/jsf/impl/data
+/modules/security/impl/data
